@@ -12,8 +12,8 @@ class LicenseController {
                 item.price,
                 item.key,
                 item.featured,
-                item.discount
-
+                item.discount,
+                item.images
             );
         });
     }

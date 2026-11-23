@@ -6,7 +6,8 @@
         "price": 19.99,
         "key": "WIN10-A1B2-C3D4",
         "featured": true,
-        "discount": 10
+        "discount": 10,
+        "images": "windows.png"
     },
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "price": 29.99,
         "key": "WIN11-E5F6-G7H8",
         "featured": true,
-        "discount": 20
+        "discount": 20,
+        "images": "windows.png"
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "price": 39.99,
         "key": "WIN11-P9Q8-R7S6",
         "featured": false,
-        "discount": 15
+        "discount": 15,
+        "images": "windows.png"
     },
     {
         "id": 4,
@@ -33,7 +36,8 @@
         "price": 34.99,
         "key": "OFF19-A2B3-C4D5",
         "featured": true,
-        "discount": 5
+        "discount": 5,
+        "images": "office.png"
     },
     {
         "id": 5,
@@ -42,7 +46,8 @@
         "price": 49.99,
         "key": "OFF21-E6F7-G8H9",
         "featured": false,
-        "discount": 25
+        "discount": 25,
+        "images": "office.png"
     },
     {
         "id": 6,
@@ -51,7 +56,8 @@
         "price": 59.99,
         "key": "OFF24-J1K2-L3M4",
         "featured": true,
-        "discount": 30
+        "discount": 30,
+        "images": "office.png"
     },
     {
         "id": 7,
@@ -60,7 +66,8 @@
         "price": 14.99,
         "key": "KAS22-N5P6-Q7R8",
         "featured": false,
-        "discount": 10
+        "discount": 10,
+        "images": "kaspersky.png"
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "price": 19.99,
         "key": "KAS23-S9T1-U2V3",
         "featured": true,
-        "discount": 15
+        "discount": 15,
+        "images": "kaspersky.png"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "price": 24.99,
         "key": "KAS24-W4X5-Y6Z7",
         "featured": false,
-        "discount": 20
+        "discount": 20,
+        "images": "kaspersky.png"
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "price": 39.99,
         "key": "PS22-A8B9-C1D2",
         "featured": true,
-        "discount": 10
+        "discount": 10,
+        "images": "photoshop.png"
     },
     {
         "id": 11,
@@ -96,7 +106,8 @@
         "price": 44.99,
         "key": "PS23-E3F4-G5H6",
         "featured": false,
-        "discount": 15
+        "discount": 15,
+        "images": "photoshop.png"
     },
     {
         "id": 12,
@@ -105,7 +116,8 @@
         "price": 54.99,
         "key": "PS24-J7K8-L9M1",
         "featured": true,
-        "discount": 25
+        "discount": 25,
+        "images": "photoshop.png"
     },
     {
         "id": 13,
@@ -114,7 +126,8 @@
         "price": 9.99,
         "key": "WR5-N2P3-Q4R5",
         "featured": false,
-        "discount": 5
+        "discount": 5,
+        "images": "winrar.png"
     },
     {
         "id": 14,
@@ -123,7 +136,8 @@
         "price": 12.99,
         "key": "WR6-S6T7-U8V9",
         "featured": false,
-        "discount": 10
+        "discount": 10,
+        "images": "winrar.png"
     },
     {
         "id": 15,
@@ -132,7 +146,8 @@
         "price": 16.99,
         "key": "WR7-W1X2-Y3Z4",
         "featured": true,
-        "discount": 20
+        "discount": 20,
+        "images": "winrar.png"
     },
     {
         "id": 16,
@@ -141,7 +156,8 @@
         "price": 17.99,
         "key": "NOR22-A5B6-C7D8",
         "featured": false,
-        "discount": 15
+        "discount": 15,
+        "images": "norton.png"
     },
     {
         "id": 17,
@@ -150,7 +166,8 @@
         "price": 21.99,
         "key": "NOR23-E9F1-G2H3",
         "featured": true,
-        "discount": 20
+        "discount": 20,
+        "images": "norton.png"
     },
     {
         "id": 18,
@@ -159,7 +176,8 @@
         "price": 26.99,
         "key": "NOR24-J4K5-L6M7",
         "featured": false,
-        "discount": 30
+        "discount": 30,
+        "images": "norton.png"
     },
     {
         "id": 19,
@@ -168,7 +186,8 @@
         "price": 49.99,
         "key": "CAD22-N8P9-Q1R2",
         "featured": true,
-        "discount": 10
+        "discount": 10,
+        "images": "autocad.png"
     },
     {
         "id": 20,
@@ -177,7 +196,8 @@
         "price": 59.99,
         "key": "CAD23-S3T4-U5V6",
         "featured": false,
-        "discount": 20
+        "discount": 20,
+        "images": "autocad.png"
     },
     {
         "id": 21,
@@ -186,7 +206,8 @@
         "price": 69.99,
         "key": "CAD24-W7X8-Y9Z1",
         "featured": true,
-        "discount": 35
+        "discount": 35,
+        "images": "autocad.png"
     },
     {
         "id": 22,
@@ -195,7 +216,8 @@
         "price": 12.99,
         "key": "ESET22-A2B4-C6D8",
         "featured": false,
-        "discount": 5
+        "discount": 5,
+        "images": "eset.png"
     },
     {
         "id": 23,
@@ -204,7 +226,8 @@
         "price": 16.99,
         "key": "ESET23-E1F3-G5H7",
         "featured": true,
-        "discount": 15
+        "discount": 15,
+        "images": "eset.png"
     },
     {
         "id": 24,
@@ -213,7 +236,8 @@
         "price": 19.99,
         "key": "ESET24-J2K4-L6M8",
         "featured": false,
-        "discount": 25
+        "discount": 25,
+        "images": "eset.png"
     },
     {
         "id": 25,
@@ -222,7 +246,8 @@
         "price": 10.99,
         "key": "AVA22-N1P3-Q5R7",
         "featured": false,
-        "discount": 10
+        "discount": 10,
+        "images": "avast.png"
     },
     {
         "id": 26,
@@ -231,7 +256,8 @@
         "price": 13.99,
         "key": "AVA23-S2T4-U6V8",
         "featured": true,
-        "discount": 20
+        "discount": 20,
+        "images": "avast.png"
     },
     {
         "id": 27,
@@ -240,7 +266,8 @@
         "price": 17.99,
         "key": "AVA24-W3X5-Y7Z9",
         "featured": false,
-        "discount": 30
+        "discount": 30,
+        "images": "avast.png"
     },
     {
         "id": 28,
@@ -249,7 +276,8 @@
         "price": 29.99,
         "key": "CD22-A3B5-C7D9",
         "featured": true,
-        "discount": 15
+        "discount": 15,
+        "images": "coreldraw.png"
     },
     {
         "id": 29,
@@ -258,7 +286,8 @@
         "price": 39.99,
         "key": "CD23-E2F4-G6H8",
         "featured": false,
-        "discount": 25
+        "discount": 25,
+        "images": "coreldraw.png"
     },
     {
         "id": 30,
@@ -267,6 +296,7 @@
         "price": 49.99,
         "key": "CD24-J3K5-L7M9",
         "featured": true,
-        "discount": 35
+        "discount": 35,
+        "images": "coreldraw.png"
     }
 ]

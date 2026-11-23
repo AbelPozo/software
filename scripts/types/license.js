@@ -1,7 +1,7 @@
 export class License {
 
     //Guarda la información de la licencia
-    constructor(id, software, version, price, key, featured, discount) {
+    constructor(id, software, version, price, key, featured, discount, images) {
         this.id = id;
         this.software = software;
         this.version = version;
@@ -9,6 +9,7 @@ export class License {
         this.key = key;
         this.featured = featured;
         this.discount = discount;
+        this.images = images;
     }
     
     //Muestra la información del producto en la página
@@ -17,23 +18,9 @@ export class License {
         //Crea el contenedor del producto
         let product =document.createElement("div");
 
-        //Relaciona cada programa con su imagen
-        let images = {
-            "Windows": "windows.png",
-            "Microsoft Office": "office.png",
-            "Kaspersky": "kaspersky.png",
-            "Photoshop": "photoshop.png",
-            "WinRAR": "winrar.png",
-            "Norton": "norton.png",
-            "AutoCAD": "autocad.png",
-            "ESET": "eset.png",
-            "Avast": "avast.png",
-            "CorelDRAW": "coreldraw.png"
-        };
-
         //Crea la imagen del producto
         let image = document.createElement("img");
-        image.src = "./images/" + images[this.software];
+        image.src = "./images/" + this.images;
         image.alt = this.software;
         image.className = "product-image";
 
