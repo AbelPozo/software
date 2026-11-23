@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Software Store</title>
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Software Store</h1>
+            <p>Tu tienda de licencias de software</p>
+        </header>
+
+        <main>
+            <section>
+                <h2>Productos destacados</h2>
+                <div id="featured" class="products"></div>
+            </section>
+
+            <section>
+                <h2>Ofertas</h2>
+                <div id="offers" class="products"></div>
+            </section>
+
+            <section>
+                <h2>Últimas versiones</h2>
+                <div id="latest" class="products"></div>
+            </section>
+
+            <section>
+                <h2>Todas las licencias</h2>
+                <div class="filters">
+                    <label for="search">Buscar por nombre o versión:</label>
+                    <input type="text" id="search" placeholder="Escribe lo que buscas...">
+
+                    <label for="softwareFilter">Filtrar por programa:</label>
+                    <select id="softwareFilter">
+                        <option value="">Todos los programas</option>
+                        <option value="Windows">Windows</option>
+                        <option value="Microsoft Office">Microsoft Office</option>
+                        <option value="Kaspersky">Kaspersky</option>
+                        <option value="Photoshop">Photoshop</option>
+                        <option value="WinRAR">WinRAR</option>
+                        <option value="Norton">Norton</option>
+                        <option value="AutoCAD">AutoCAD</option>
+                        <option value="ESET">ESET</option>
+                        <option value="Avast">Avast</option>
+                        <option value="CorelDRAW">CorelDRAW</option>
+                    </select>
+                </div>
+
+                <div id="all" class="products">
+
+                </div>
+            </section>
+        </main>
+
+        <script type="module" src="scripts/app.js"></script>
+    </body>
+</html>

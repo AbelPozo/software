@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "software": "Windows",
+        "version": "10",
+        "price": 19.99,
+        "key": "WIN10-A1B2-C3D4",
+        "featured": true,
+        "discount": 10
+    },
+    {
+        "id": 2,
+        "software": "Windows",
+        "version": "11",
+        "price": 29.99,
+        "key": "WIN11-E5F6-G7H8",
+        "featured": true,
+        "discount": 20
+    },
+    {
+        "id": 3,
+        "software": "Windows",
+        "version": "11 Pro",
+        "price": 39.99,
+        "key": "WIN11-P9Q8-R7S6",
+        "featured": false,
+        "discount": 15
+    },
+    {
+        "id": 4,
+        "software": "Microsoft Office",
+        "version": "2019",
+        "price": 34.99,
+        "key": "OFF19-A2B3-C4D5",
+        "featured": true,
+        "discount": 5
+    },
+    {
+        "id": 5,
+        "software": "Microsoft Office",
+        "version": "2021",
+        "price": 49.99,
+        "key": "OFF21-E6F7-G8H9",
+        "featured": false,
+        "discount": 25
+    },
+    {
+        "id": 6,
+        "software": "Microsoft Office",
+        "version": "2024",
+        "price": 59.99,
+        "key": "OFF24-J1K2-L3M4",
+        "featured": true,
+        "discount": 30
+    },
+    {
+        "id": 7,
+        "software": "Kaspersky",
+        "version": "2022",
+        "price": 14.99,
+        "key": "KAS22-N5P6-Q7R8",
+        "featured": false,
+        "discount": 10
+    },
+    {
+        "id": 8,
+        "software": "Kaspersky",
+        "version": "2023",
+        "price": 19.99,
+        "key": "KAS23-S9T1-U2V3",
+        "featured": true,
+        "discount": 15
+    },
+    {
+        "id": 9,
+        "software": "Kaspersky",
+        "version": "2024",
+        "price": 24.99,
+        "key": "KAS24-W4X5-Y6Z7",
+        "featured": false,
+        "discount": 20
+    },
+    {
+        "id": 10,
+        "software": "Photoshop",
+        "version": "2022",
+        "price": 39.99,
+        "key": "PS22-A8B9-C1D2",
+        "featured": true,
+        "discount": 10
+    },
+    {
+        "id": 11,
+        "software": "Photoshop",
+        "version": "2023",
+        "price": 44.99,
+        "key": "PS23-E3F4-G5H6",
+        "featured": false,
+        "discount": 15
+    },
+    {
+        "id": 12,
+        "software": "Photoshop",
+        "version": "2024",
+        "price": 54.99,
+        "key": "PS24-J7K8-L9M1",
+        "featured": true,
+        "discount": 25
+    },
+    {
+        "id": 13,
+        "software": "WinRAR",
+        "version": "5",
+        "price": 9.99,
+        "key": "WR5-N2P3-Q4R5",
+        "featured": false,
+        "discount": 5
+    },
+    {
+        "id": 14,
+        "software": "WinRAR",
+        "version": "6",
+        "price": 12.99,
+        "key": "WR6-S6T7-U8V9",
+        "featured": false,
+        "discount": 10
+    },
+    {
+        "id": 15,
+        "software": "WinRAR",
+        "version": "7",
+        "price": 16.99,
+        "key": "WR7-W1X2-Y3Z4",
+        "featured": true,
+        "discount": 20
+    },
+    {
+        "id": 16,
+        "software": "Norton",
+        "version": "2022",
+        "price": 17.99,
+        "key": "NOR22-A5B6-C7D8",
+        "featured": false,
+        "discount": 15
+    },
+    {
+        "id": 17,
+        "software": "Norton",
+        "version": "2023",
+        "price": 21.99,
+        "key": "NOR23-E9F1-G2H3",
+        "featured": true,
+        "discount": 20
+    },
+    {
+        "id": 18,
+        "software": "Norton",
+        "version": "2024",
+        "price": 26.99,
+        "key": "NOR24-J4K5-L6M7",
+        "featured": false,
+        "discount": 30
+    },
+    {
+        "id": 19,
+        "software": "AutoCAD",
+        "version": "2022",
+        "price": 49.99,
+        "key": "CAD22-N8P9-Q1R2",
+        "featured": true,
+        "discount": 10
+    },
+    {
+        "id": 20,
+        "software": "AutoCAD",
+        "version": "2023",
+        "price": 59.99,
+        "key": "CAD23-S3T4-U5V6",
+        "featured": false,
+        "discount": 20
+    },
+    {
+        "id": 21,
+        "software": "AutoCAD",
+        "version": "2024",
+        "price": 69.99,
+        "key": "CAD24-W7X8-Y9Z1",
+        "featured": true,
+        "discount": 35
+    },
+    {
+        "id": 22,
+        "software": "ESET",
+        "version": "2022",
+        "price": 12.99,
+        "key": "ESET22-A2B4-C6D8",
+        "featured": false,
+        "discount": 5
+    },
+    {
+        "id": 23,
+        "software": "ESET",
+        "version": "2023",
+        "price": 16.99,
+        "key": "ESET23-E1F3-G5H7",
+        "featured": true,
+        "discount": 15
+    },
+    {
+        "id": 24,
+        "software": "ESET",
+        "version": "2024",
+        "price": 19.99,
+        "key": "ESET24-J2K4-L6M8",
+        "featured": false,
+        "discount": 25
+    },
+    {
+        "id": 25,
+        "software": "Avast",
+        "version": "2022",
+        "price": 10.99,
+        "key": "AVA22-N1P3-Q5R7",
+        "featured": false,
+        "discount": 10
+    },
+    {
+        "id": 26,
+        "software": "Avast",
+        "version": "2023",
+        "price": 13.99,
+        "key": "AVA23-S2T4-U6V8",
+        "featured": true,
+        "discount": 20
+    },
+    {
+        "id": 27,
+        "software": "Avast",
+        "version": "2024",
+        "price": 17.99,
+        "key": "AVA24-W3X5-Y7Z9",
+        "featured": false,
+        "discount": 30
+    },
+    {
+        "id": 28,
+        "software": "CorelDRAW",
+        "version": "2022",
+        "price": 29.99,
+        "key": "CD22-A3B5-C7D9",
+        "featured": true,
+        "discount": 15
+    },
+    {
+        "id": 29,
+        "software": "CorelDRAW",
+        "version": "2023",
+        "price": 39.99,
+        "key": "CD23-E2F4-G6H8",
+        "featured": false,
+        "discount": 25
+    },
+    {
+        "id": 30,
+        "software": "CorelDRAW",
+        "version": "2024",
+        "price": 49.99,
+        "key": "CD24-J3K5-L7M9",
+        "featured": true,
+        "discount": 35
+    }
+]
